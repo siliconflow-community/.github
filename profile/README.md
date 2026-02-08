@@ -7,6 +7,7 @@
     />
   </a> <br>
 
+
   <a href="https://x.com/SiliconFlowAI"><img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/SiliconFlow?style=social"></a>
   <a href="https://www.linkedin.com/company/siliconflow"><img alt="LinkedIn Company" src="https://img.shields.io/badge/Follow_on_Linkedin-blue?style=flat"></a>
   <a href="https://discord.gg/3nAMSVJekY"><img alt="Discord Community" src="https://img.shields.io/badge/Join_Discord--white?logo=discord&style=social"></a>
