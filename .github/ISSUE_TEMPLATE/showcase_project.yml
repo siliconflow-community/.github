@@ -1,0 +1,74 @@
+---
+name: Add Project
+about: Share a project you've built with SiliconFlow
+title: 'Showcase: [Project Name]'
+labels: 'showcase'
+assignees: ''
+---
+
+## Project Information
+
+**Project Name**: 
+
+**Project URL**: 
+
+**Short Description**: 
+
+## Details
+
+Tell us about your project:
+
+### What does it do?
+
+Describe the purpose and functionality of your project.
+
+### How does it use SiliconFlow?
+
+Explain how your project integrates with SiliconFlow's services or infrastructure:
+
+- Which API or service do you use?
+- What models or features are you leveraging?
+- How has SiliconFlow helped you achieve your goals?
+
+### Tech Stack
+
+List the technologies and tools used:
+
+- Frontend:
+- Backend:
+- AI/ML:
+- Others:
+
+## Project Status
+
+- [ ] In Development
+- [ ] Beta/Testing
+- [ ] Stable/Production
+- [ ] Archived
+
+## Screenshots/Demo
+
+Add screenshots or a link to a live demo/video:
+
+*(Add your screenshots here)*
+
+## Links
+
+- Repository: 
+- Live Demo: 
+- Documentation: 
+- Other:
+
+## Contributor Info
+
+**Your Name** (optional):
+
+**Your GitHub**: 
+
+**Your Social Media** (optional):
+
+## Additional Notes
+
+Any other information you'd like to share about your project.
+
+Thank you for contributing to the SiliconFlow Community! 🎉

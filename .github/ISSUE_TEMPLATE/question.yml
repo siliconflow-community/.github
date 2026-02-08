@@ -1,0 +1,31 @@
+---
+name: Question
+about: Ask a question about the project
+title: 'Question: '
+labels: 'question'
+assignees: ''
+---
+
+## Your Question
+
+What would you like to know?
+
+## Context
+
+Provide any relevant context that might help answer your question:
+
+- Which project/repo is this related to?
+- What are you trying to achieve?
+- What have you tried so far?
+
+## Environment
+
+Include details about your environment if relevant:
+
+- OS: 
+- Version: 
+- Language/Runtime: 
+
+## Additional Information
+
+Add any other information that might help answer your question.
