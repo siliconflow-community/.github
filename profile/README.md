@@ -67,7 +67,7 @@ We are committed to providing a welcoming and inclusive community for everyone. 
 ## Resources
 
 - **[SiliconFlow Official Website](https://www.siliconflow.com)** - Learn about our products and services
-- **[SiliconCloud Documentation](https://docs.siliconflow.cn)** - Comprehensive documentation and guides
+- **[SiliconCloud Documentation](https://docs.siliconflow.com)** - Comprehensive documentation and guides
 - **[Discord Server](https://discord.gg/3nAMSVJekY)** - Real-time chat with the community
 - **[Blog](https://www.siliconflow.com/blog)** - Latest news, tutorials, and announcements
 

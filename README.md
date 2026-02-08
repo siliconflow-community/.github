@@ -37,7 +37,7 @@ Adopt our templates in your repository:
 ## 🌐 Links
 
 - **[SiliconFlow Official](https://www.siliconflow.com)** - Main product website
-- **[SiliconCloud Documentation](https://docs.siliconflow.cn)** - Developer documentation
+- **[SiliconCloud Documentation](https://docs.siliconflow.com)** - Developer documentation
 - **[Discord Community](https://discord.gg/3nAMSVJekY)** - Join our Discord
 - **[Twitter](https://twitter.com/SiliconFlowAI)** - Follow us on Twitter
 
