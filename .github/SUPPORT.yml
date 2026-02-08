@@ -1,0 +1,76 @@
+# Support Information
+
+Support for SiliconFlow projects is provided through the following channels:
+
+## Community Support (Best for general questions)
+
+- **Discord**: [Join our Discord server](https://discord.gg/3nAMSVJekY) - Real-time community support and discussions
+- **GitHub Discussions**: Ask questions and share ideas in our [community forum](https://github.com/siliconflow-community/.github/discussions)
+- **Twitter**: Follow [@SiliconFlowAI](https://twitter.com/SiliconFlowAI) for updates and announcements
+
+## Documentation
+
+- **[SiliconCloud Documentation](https://docs.siliconflow.cn)** - Comprehensive documentation, guides, and API reference
+- **[GitHub Repositories](https://github.com/siliconflow)** - Source code and README files for specific projects
+
+## Bug Reports & Feature Requests
+
+For bugs and feature requests, please open an issue in the relevant repository:
+
+1. Find the repository where you want to report an issue
+2. Check if the issue already exists
+3. Open a new issue using the appropriate template:
+   - 🐛 [Bug Report](https://github.com/siliconflow-community/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.yml)
+   - 💡 [Feature Request](https://github.com/siliconflow-community/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.yml)
+   - ❓ [Question](https://github.com/siliconflow-community/.github/blob/main/.github/ISSUE_TEMPLATE/question.yml)
+
+## Security Issues
+
+📧 **Email**: security@siliconflow.com
+
+For security vulnerabilities, please **do not** use public channels. Instead, report directly via email following our [Security Policy](https://github.com/siliconflow-community/.github/blob/main/SECURITY.md).
+
+## Enterprise Support
+
+For enterprise customers requiring dedicated support, please contact:
+
+📧 **Email**: enterprise@siliconflow.com
+
+## Response Times
+
+| Channel | Typical Response Time |
+|---------|----------------------|
+| Discord (Community) | Variable - community member responses |
+| GitHub Discussions | 1-3 business days |
+| GitHub Issues | 1-5 business days, depending on priority |
+| Security Vulnerabilities | Within 48 hours (acknowledgment) |
+| Enterprise Support | Per SLA agreement |
+
+## Getting Started
+
+New to SiliconFlow? Here's how to get help quickly:
+
+1. **Read the Docs** - Check the [documentation](https://docs.siliconflow.cn) first
+2. **Search Issues** - Search existing GitHub issues and discussions
+3. **Ask in Discord** - Get quick help from the community
+4. **Open an Issue** - If you can't find an answer, open an issue
+
+## Code of Conduct
+
+Please follow our [Code of Conduct](https://github.com/siliconflow-community/.github/blob/main/CODE_OF_CONDUCT.md) in all interactions.
+
+We're committed to providing a welcoming and inclusive environment for everyone.
+
+## Contributing
+
+Want to contribute? Check out our [Contributing Guide](https://github.com/siliconflow-community/.github/blob/main/CONTRIBUTING.md).
+
+## Additional Resources
+
+- **[SiliconFlow Website](https://www.siliconflow.com)**
+- **[Blog](https://www.siliconflow.com/blog)**
+- **[LinkedIn](https://www.linkedin.com/company/siliconflow)**
+
+---
+
+Thank you for being part of the SiliconFlow Community! 🙌
